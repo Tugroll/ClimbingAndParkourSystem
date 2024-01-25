@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67d667f24f920742b3165084c4368d8, type: 3}
+  m_Name: StepUp
+  m_EditorClassIdentifier: 
+  aniName: StepUp
+  rotateBool: 1
+  minHeight: 0.3
+  maxHeight: 0.75
+  tagName: 
+  postActionDelayed: 0
+  enableTargetMatching: 0
+  matchBodyPart: 3
+  matchStartTime: 0.43
+  matchTargetTime: 0.48
+  matchPosWeight: {x: 0, y: 1, z: 0}
+  mirror: 0

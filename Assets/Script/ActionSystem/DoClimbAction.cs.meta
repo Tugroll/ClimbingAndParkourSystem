@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4be49223fbec6fb41ac6352f64fbfd35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doParkour: {fileID: 11400000, guid: 0350d8c44cb2893409ac9f9b06130536, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
